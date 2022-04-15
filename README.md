@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Shayemur Rahman</h1>
 <h3 align="center"> Web developer, having expertise in Software development and Web Development.</h3>
 
-Skills: REACT / NODE / EXPRESS / DOCKER / MONGODB / POSTGRESQL / MYSQL / JAVASCRIPT / HTML / CSS 
-
+<h6> Skills I have: REACT / NODE / EXPRESS / DOCKER / MONGODB / POSTGRESQL / MYSQL / JAVASCRIPT / HTML / CSS </h6>
 
 - 🔭 I’m currently studying Software Engineering at TAMK
 
 - 🌱 I’m currently learning **Full Stack practice and knowledges**
 
 - 💬 Ask me about **react, node, javascript, java etc.**
-
-- 📫 Reach me **s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
