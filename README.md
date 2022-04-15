@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Jahedur Rahman</h1>
-<h3 align="center"> An enthusiastic full stack web developer, having expertise in web application development, Software development.</h3>
+<h1 align="center">Hi 👋, I'm Md Shayemur Rahman</h1>
+<h3 align="center"> Web developer, having expertise in Software development and Web Development.</h3>
 
-Skills: TYPESCRIPT / REACT / REDUX / NODE / EXPRESS / MONGODB / POSTGRESQL / MYSQL/ DJANGO/ FLASK / JS / PYTHON / HTML / CSS 
+Skills: REACT / NODE / EXPRESS / DOCKER / MONGODB / POSTGRESQL / MYSQL / JAVASCRIPT / HTML / CSS 
 
 
 - 🔭 I’m currently studying Software Engineering at TAMK
